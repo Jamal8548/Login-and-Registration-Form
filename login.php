@@ -18,7 +18,7 @@
      </div>
      <div class="form-group">
      <label>Password</label>
-     <input type="Password" name="user" class="form-control" required>
+     <input type="Password" name="Password" class="form-control" required>
      </div>
      <button type="submit" class="btn btn-primary ">Login</button>
      </form>
